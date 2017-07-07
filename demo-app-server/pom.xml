@@ -69,7 +69,7 @@
 			              <outputDirectory>${basedir}/src/main/webapp/</outputDirectory>
 			              <resources>
 			                  <resource>
-			                      <directory>/Users/cyeleswarapu/angular2typescript/test/newproject/dist</directory>
+			                      <directory>/path/to/ng4/app/dist</directory>
 			                  </resource>
 			              </resources>
 			          </configuration>
